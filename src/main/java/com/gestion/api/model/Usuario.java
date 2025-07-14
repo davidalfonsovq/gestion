@@ -197,18 +197,38 @@ public class Usuario {
         this.modified = modified;
     }
 	
+	/**
+	 * Gets the token.
+	 *
+	 * @return the token
+	 */
 	public UUID getToken() {
 		return token;
 	}
 
+	/**
+	 * Sets the token.
+	 *
+	 * @return the token
+	 */
 	public void setToken(UUID token) {
 		this.token = token;
 	}
 
+	/**
+	 * Gets the isactived.
+	 *
+	 * @return the isactived
+	 */
 	public boolean getIsActived() {
 		return isactived;
 	}
 
+	/**
+	 * Sets the isactived.
+	 *
+	 * @return the isactived
+	 */
 	public void setIsActived(boolean isactived) {
 		this.isactived = isactived;
 	}
