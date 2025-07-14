@@ -45,7 +45,7 @@ Este proyecto es una API RESTful para la gestión de usuarios, desarrollada con 
 - Endpoints protegidos requieren token en el header `Authorization: Bearer <token>`.
 
 ## Documentación Interactiva
-- Accede a Swagger UI en: `http://localhost:8080/swagger-ui.html`
+- Accede a Swagger UI en: `http://localhost:8080/swagger`
 
 ## Instalación 
 
