@@ -80,7 +80,7 @@ mvn spring-boot:run
 
 ## Autor
 
-- Desarrollado por Davex
+- Desarrollado por David Vargas
 
 ---
 
